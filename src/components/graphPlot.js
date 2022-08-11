@@ -10,7 +10,6 @@ import {
     ResponsiveContainer,
     AreaChart,
     Area,
-    Treemap,
     ComposedChart,
     Legend,
     Bar,
@@ -26,7 +25,6 @@ import RadioGroup from '@mui/material/RadioGroup';
 import FormControlLabel from '@mui/material/FormControlLabel';
 import FormControl from '@mui/material/FormControl';
 import FormLabel from '@mui/material/FormLabel';
-import PropTypes from 'prop-types';
 import { scaleOrdinal } from 'd3-scale';
 import { schemeCategory10 } from 'd3-scale-chromatic';
 
